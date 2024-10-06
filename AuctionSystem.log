@@ -1,0 +1,14 @@
+May 29, 2020 12:04:16 PM utils.Log addLog
+INFO: Connection to database established.
+May 29, 2020 12:04:16 PM utils.Log addLog
+INFO: Successfully fetched all car items from database
+May 29, 2020 12:04:16 PM utils.Log addLog
+INFO: Auction Report panel constructed
+May 29, 2020 12:04:17 PM utils.Log addLog
+INFO: Menu frame created
+May 29, 2020 12:04:19 PM utils.Log addLog
+INFO: Connection to sqlite cars db closing.
+May 29, 2020 12:04:19 PM utils.Log addLog
+INFO: Connection to SQLite has been established.
+May 29, 2020 12:04:19 PM utils.Log addLog
+INFO: Connection to sqlite recordsDB closing.
