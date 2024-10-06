@@ -1,0 +1,7 @@
+Change Log
+
+- 3 digit seperator for price display
+- additional login user creation 
+- fixed bidder name not appearing in excel
+- in auction report, clicking clear all data prompts a yes no jdialog
+- next button is disabled unless count reaches 3
