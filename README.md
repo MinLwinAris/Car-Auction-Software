@@ -1,4 +1,4 @@
-<img width="442" height="302" alt="javaw_gkZHTDCDg2" src="https://github.com/user-attachments/assets/b05b4ec8-cd77-4a1f-89dc-5b39efc6d999" /># Toyota AutoAuction Software
+# Toyota AutoAuction Software #
 
 This project is a **Toyota AutoAuction Management System** developed using **Java** and **SQL**, designed to streamline the process of managing vehicle auctions, bidder interactions, and sales reports within an auto-auction environment.
 
@@ -27,6 +27,10 @@ Toyota AutoAuction Software is a desktop-based application that automates core f
 - 📊 4. Reports :  Generate sales, earnings, and auction performance reports.
 
 <img width="442" height="302" alt="javaw_gkZHTDCDg2" src="https://github.com/user-attachments/assets/8fb7d503-7fe1-4a6c-81da-e26e0eafec11" />
+
+<img width="719" height="107" alt="image" src="https://github.com/user-attachments/assets/bd23cbd2-68d4-43c8-899d-042de203c2ff" />
+
+<img width="710" height="371" alt="aJWkzX0RxB" src="https://github.com/user-attachments/assets/27edbadb-d80d-4adf-9d50-8f81e6af7d62" />
 
 
 ## 🧱 Database Schema
